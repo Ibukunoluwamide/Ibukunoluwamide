@@ -4,8 +4,9 @@
 I'm a **Full-Stack Developer** specializing in **MERN & Laravel**.  
 **Always learning. Always building. Always improving.**
 
-- 👨‍💻 All of my projects are available at **[https://abbeyvista.vercel.app/](https://abbeyvista.vercel.app/)**
+- 👨‍💻 All of my projects are available at: [abbeyvista.vercel.app](https://abbeyvista.vercel.app/)
 
+---
 
 ### 💻 Tech Stack
 
@@ -20,10 +21,26 @@ I'm a **Full-Stack Developer** specializing in **MERN & Laravel**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibukunoluwamide&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibukunoluwamide&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ### 📫 Connect with Me
 - LinkedIn: [Alao Olamide Ezekiel](https://linkedin.com/in/olamidealao)
 - GitHub: [@Ibukunoluwamide](https://github.com/Ibukunoluwamide)
+- Portfolio: [abbeyvista.vercel.app](https://abbeyvista.vercel.app/)
+
+---
 
 ### ⚡ Fun Fact
-I love building **clean, scalable applications** and exploring new technologies like **TypeScript** and modern JavaScript frameworks.
-
+I love building **clean, scalable applications** and exploring new technologies like **TypeScript**, modern JavaScript frameworks, and efficient API architectures.
