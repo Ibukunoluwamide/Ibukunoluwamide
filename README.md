@@ -22,7 +22,7 @@ I'm a **Full-Stack Developer** specializing in **MERN & Laravel**.
 
 ### 📫 Connect with Me
 - LinkedIn: [Alao Olamide Ezekiel](https://linkedin.com/in/olamidealao)
-- GitHub: [@yourusername](https://github.com/Ibukunoluwamide)
+- GitHub: [@Ibukunoluwamide](https://github.com/Ibukunoluwamide)
 
 ### ⚡ Fun Fact
 I love building **clean, scalable applications** and exploring new technologies like **TypeScript** and modern JavaScript frameworks.
