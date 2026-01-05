@@ -1,34 +1,34 @@
-# Hi there 👋, I'm Alao Olamide Ezekiel (Ibukunoluwamide)
+# Hi 👋, I'm Alao Olamide
 
 ### 🌱 About Me
 I'm a **Full-Stack Developer** specializing in **MERN & Laravel**.  
 **Always learning. Always building. Always improving.**
 
-- 👨‍💻 All of my projects are available at: [abbeyvista.vercel.app](https://abbeyvista.vercel.app/)
-
 ---
 
 ### 💻 Tech Stack
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
+| JavaScript | TypeScript | React | Node.js | MongoDB | Laravel | MySQL |
+|------------|------------|-------|---------|---------|---------|-------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> |
+
+
+
 
 ---
 
+### 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ibukunoluwamide&theme=radical)
+
+
+
+
+
 ### 📫 Connect with Me
-- LinkedIn: [Alao Olamide Ezekiel](https://linkedin.com/in/olamidealao)
-- GitHub: [@Ibukunoluwamide](https://github.com/Ibukunoluwamide)
+- LinkedIn: [Alao Olamide](https://linkedin.com/in/olamidealao)
+- Email: [olamidealao22@gmail.com](ölamidealao22@gmail.com)
 - Portfolio: [abbeyvista.vercel.app](https://abbeyvista.vercel.app/)
 
 ---
 
-### ⚡ Fun Fact
-I love building **clean, scalable applications** and exploring new technologies like **TypeScript**, modern JavaScript frameworks, and efficient API architectures.
