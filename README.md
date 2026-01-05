@@ -21,18 +21,6 @@ I'm a **Full-Stack Developer** specializing in **MERN & Laravel**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibukunoluwamide&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibukunoluwamide&layout=compact&theme=radical&cache_seconds=1800&hide_border=true" />
-</p>
-
 ---
 
 ### 📫 Connect with Me
